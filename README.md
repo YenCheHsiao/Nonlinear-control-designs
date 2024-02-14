@@ -14,9 +14,9 @@ Codes for Nonlinear control designs and their application to cancer differentiat
    
 * For the robustness test, please go the the folder: Code/Robustness test
   * The figure of the robustness test using Mote carlo simulation will be generated after running the codes below
-    1. "Robustness all sens_ Cancer Domain control optimal" has the robustness test of the domain controller.
-    2. "Robustness all sens_ Cancer Polynomial DI control optimal" has the robustness test of the polynomial dynamic inversion controller.
-    3. "Robustness all sens_ Cancer Sigmoid control optimal" has the robustness test of the sigmoid-based controller.
+    1. "Robustness all sens_ Cancer Domain control optimal.py" has the robustness test of the domain controller.
+    2. "Robustness all sens_ Cancer Polynomial DI control optimal.py" has the robustness test of the polynomial dynamic inversion controller.
+    3. "Robustness all sens_ Cancer Sigmoid control optimal.py" has the robustness test of the sigmoid-based controller.
 
 * For the sensitivity analysis, please go the the folder: Code/Sensitivity analysis
   * The figure of the sensitivity analysis using Sobol Sensitivity analysis will be generated after running the code below
